@@ -14,3 +14,8 @@
 ![Services](https://user-images.githubusercontent.com/113011172/189979723-39274373-9528-4d2a-b01f-23fa0a5972e0.png)
 # Contact
 ![Contact4](https://user-images.githubusercontent.com/113011172/189979780-de566c5a-813b-44f7-83f6-de41b59d7bab.png)
+# Deployment Process
+![Deployment process 1](https://user-images.githubusercontent.com/113011172/195600874-03a11a2d-a7ac-4638-b83c-910b2d153d1f.png)
+![Deployment process complete](https://user-images.githubusercontent.com/113011172/195600973-5a0dab31-2be8-450d-87ef-bce721c7fb7e.png)
+![Deploymewnt process](https://user-images.githubusercontent.com/113011172/195601167-f0b77e5f-d6eb-42f4-b84b-c245c6ae979f.png)
+
