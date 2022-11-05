@@ -1,9 +1,9 @@
 # The-TravelOn
 # Description
-# Helps passengers to plan their trip as soon as possible,gives a specific departure and arrival point,provide details about ride.Provide loyalty programs,encourage passengers about booking,provide perks.Know about what the passenger thinking,choices etc.
+# Helps passengers to plan their trip as soon as possible,gives a specific departure and arrival point,provide details about ride.Provide loyalty programs,encourage passengers about booking,provide perks.Know about what the passenger thinking,choices etc. It is mainly design to help the passengers without any extra charges with entertainment and daily New Blogs Posts.
 # There are two Azure services uses in this project.
 # My Final Future Ready talent project link : - https://mango-forest-0b10e7900.2.azurestaticapps.net
-# Project Videro URL : - https://youtu.be/yJa9JoJDfBs
+# Project Video URL : - https://youtu.be/yJa9JoJDfBs
 # There are three language uses in this project
 # CSS 
 # HTML
@@ -22,6 +22,6 @@
 ![Deployment process 1](https://user-images.githubusercontent.com/113011172/195600874-03a11a2d-a7ac-4638-b83c-910b2d153d1f.png)
 # Deployment Process 2
 ![Deployment process complete](https://user-images.githubusercontent.com/113011172/195600973-5a0dab31-2be8-450d-87ef-bce721c7fb7e.png)
-# Deploymnet Process 3
+# Deployment Process 3
 ![Deploymewnt process](https://user-images.githubusercontent.com/113011172/195601167-f0b77e5f-d6eb-42f4-b84b-c245c6ae979f.png)
 
